@@ -31,10 +31,10 @@ Em vez de tentar construir o melhor trem, perguntou-se se não seria possível c
 
 Aportou a marca Sonoma em uma nova empresa e, junto com co-fundadores Gianni Sgai e Bruno Godoy, começou a fortalecer dezenas de parcerias comerciais e desenvolver a plataforma marketplace que virou a empresa atual.
 
-Contato
-Sonoma Market Ltda.
-Whatsapp (11) 9.8458-0285
-Comercial (11) 4280-9371
-Comercial (11) 4839-1504
-Email: suporte@sonoma.com.br
+Contato<br>
+<p><a href="https://www.sonoma.com.br/">Sonoma Market - Comprar vinhos e queijos &eacute; no Sonoma Market</a></p>
+Whatsapp (11) 9.8458-0285<br>
+Comercial (11) 4280-9371<br>
+Comercial (11) 4839-1504<br>
+Email: suporte@sonoma.com.br<br>
 Web Site: https://www.sonoma.com.br/
